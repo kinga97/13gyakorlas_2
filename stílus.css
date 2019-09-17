@@ -1,0 +1,32 @@
+/*
+html {
+    border: 1px solid red;
+}
+
+div {
+    width: 500px;
+    height: 250px;
+    background-image: url(nyuszi.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 100px;
+    border: 1px solid black;
+    background-attachment: scroll;
+    overflow: scroll;
+    margin-left: -100px;
+}
+
+#par {
+    font-size: 60px;
+}
+
+.oszt {
+    text-align: center;
+}
+*/
+
+#par {
+    text-transform: uppercase;
+    text-indent: 100px;
+    letter-spacing: 5px;
+    text-shadow: 3px 3px red;
+}
